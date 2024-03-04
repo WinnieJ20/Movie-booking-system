@@ -1,6 +1,6 @@
 # Movie Booking System
 ## About
-This project is about developing a simple Movie Ticket Booking Management System using Java. This project is built through using different agile tools which allows all team members to contribute. Before using the software, please ensure that you have opened an account in our customer portal and have a valid gift card or credit card to book movies with. Additionally, ensure that you have a staff account or manager account if you wish to obtain admin privileges. If you don't have an account, you may also register one using our system. 
+This project is about developing a Movie Ticket Booking Management System using Java. This project is built through using different agile tools which allows all team members to contribute. Before using the software, please ensure that you have opened an account in our customer portal and have a valid gift card or credit card to book movies with. Additionally, ensure that you have a staff account or manager account if you wish to obtain admin privileges. If you don't have an account, you may also register one using our system. 
 
 ## Installation
 *Note: If you have installed java and gradle on the computer, please feel free to jump to project instruction and start experiencing our new software.*
